@@ -90,21 +90,21 @@ export const testimonialsData = [
   {
     name: "Sophia Johnson",
     role: "Small Business Owner",
-    image: "https://randomuser.me/api/portraits/women/75.jpg",
+    image: "/images/sophia.jpg",
     quote:
       "Finance Manager has transformed how I manage my business finances. The AI insights have helped me identify cost-saving opportunities I never knew existed.",
   },
   {
     name: "Morph Chen",
     role: "Freelancer",
-    image: "https://randomuser.me/api/portraits/men/75.jpg",
+    image: "/images/morph.jpg",
     quote:
       "The automatic receipt scanning takes care of all the data entry for me. It’s like having a personal assistant for my expenses.",
   },
   {
     name: "Emi Rodriguez",
     role: "Financial Advisor",
-    image: "https://randomuser.me/api/portraits/women/74.jpg",
+    image: "/images/emi.jpg",
     quote:
       "I recommend Finance Manager to all my clients. The multi-currency tracking and smart analytics, managing global investments has never been easier.",
   },
